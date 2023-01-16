@@ -4,16 +4,19 @@ image: profile.jpeg
 about:
   template: trestles
   image-width: 300px
-  image-shape: round
+  image-shape: rounded
   links:
     - text: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/alexandrebohyn/"
     - text: Twitter
       icon: twitter
+      url: "https://twitter.com/AlexandreBohyn"
+    - text: Github
+      icon: github
       url: "https://github.com/ABohynDOE"
     - text: Email
-      url: "mailto:alexandre.bohyn@kuleuven.be"
+      url: "mailto:alexandre.bohyn@gmail.com"
     # - text: CV
     #   url: "cv.pdf"
 comments: false
