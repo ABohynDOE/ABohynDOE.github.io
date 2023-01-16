@@ -1,4 +1,6 @@
+# Quarto files
 /.quarto/
 /_site/
-.Rproj.user
-/.Rproj.user/
+
+# RStudio files
+.Rproj.user/
