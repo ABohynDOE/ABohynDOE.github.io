@@ -1,0 +1,30 @@
+```{=html}
+
+<% for (const item of items) { %>
+
+<h3><%- item.year %></h3>
+
+<ul>
+<% for (const event of item.events) { %>
+    <% if (event.type == "poster") { %>
+      <li style="list-style-type:'&#x1F4CA; '">
+    <%} else { %>
+      <li style="list-style-type:'&#x1F3A4; '">
+    <% } %>
+    <b><%= event.title %></b>
+    <br/>
+    Presented at
+    <a href=<%= event.link %> >
+      <%= event.organisation %>
+    </a>
+    , <%= event.place %>
+    <br/>
+    Date: <%= event.date %>
+    <br/>
+    Material available <a href=<%= event.material %> >here</a>
+    <br/>
+  </li>
+<% } %>
+</ul>
+<% } %>
+```

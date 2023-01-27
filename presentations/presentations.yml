@@ -1,0 +1,35 @@
+- year: 2022
+  events:
+    - title: A blocked split-plot experiment to detect the influential steps in a cell-based bioassay
+      place: Trondhein, Norway
+      organisation: ENBIS
+      link: https://conferences.enbis.org/event/18/contributions/258/
+      date: 27/06/2022
+      type: talk
+      material: presentations/material/ENBIS22.pdf
+- year: 2021
+  events:
+    - title: Enumeration of large four-and-two-level designs
+      place: Liège, Belgium
+      organisation: RSSB
+      link: http://rssb2020.uliege.be/program.php
+      date: 21/10/2021
+      type: poster
+      material: presentations/material/RSSB.pdf
+      
+    - title: Enumeration of large four-and-two-level designs
+      place: Online
+      organisation: DAE
+      link: https://ossifragus.github.io/dae2021/program.html#poster-AlexandreBohyn
+      date: 14/10/2021
+      type: poster
+      material: presentations/material/DAE.pdf
+      
+    - title: Enumeration of large mixed four-and-two-level regular designs
+      place: Online
+      organisation: ENBIS
+      link: https://conferences.enbis.org/event/11/contributions/126/
+      date: 14/06/2021
+      type: talk
+      material: presentations/material/ENBIS21.pdf
+    

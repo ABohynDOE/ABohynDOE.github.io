@@ -7,10 +7,12 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Presentations"
+        href: presentations.qmd
 
 format:
   html:
-    theme: litera
+    theme: simplex
     css: styles.css
     toc: true
 

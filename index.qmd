@@ -3,7 +3,7 @@ title: "Alexandre Bohyn"
 image: profile.jpeg
 about:
   template: trestles
-  image-width: 300px
+  image-width: 250px
   image-shape: rounded
   links:
     - text: LinkedIn

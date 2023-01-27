@@ -1,0 +1,18 @@
+---
+title: "Talks 🎤 and posters 📊"
+listing:
+  id: talk-listing
+  template: presentations/presentations.ejs
+  contents:
+    - presentations/presentations.yml
+  field-types: 
+    date: date
+---
+
+On this page are listed talks that I have given at conferences and posters that 
+I have presented at events, sorted by year.
+When available, the material, i.e. the slides of the talk or the pdf of the poster,
+are given.
+
+::: {#talk-listing}
+:::
