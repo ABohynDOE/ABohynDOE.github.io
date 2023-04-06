@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Alexandre Bohyn - Talks 🎤 and posters 📊</title>
+<title>Alexandre Bohyn - Projects</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -64,20 +64,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-talk-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-year','listing-events',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-title','listing-description','listing-date','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-year","listing-events"],
+      searchColumns: ["listing-title","listing-description","listing-date","listing-image"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-talk-listing'] = new List('listing-talk-listing', options);
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -117,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./presentations.html" aria-current="page">
+    <a class="nav-link" href="./presentations.html">
  <span class="menu-text">Presentations</span></a>
   </li>  
   <li class="nav-item">
@@ -142,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Talks 🎤 and posters 📊</h1>
+<h1 class="title">Projects</h1>
 </div>
 
 
@@ -157,79 +157,67 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>On this page are listed talks that I have given at conferences and posters that I have presented at events, sorted by year. When available, the material, i.e.&nbsp;the slides of the talk or the pdf of the poster, are given.</p>
-<div id="listing-talk-listing" class="quarto-listing quarto-listing-container-custom">
-<h2 class="anchored">2022</h2>
-<ul>
-      <li style="list-style-type:'🎤 '">
-    <b>A blocked split-plot experiment to detect the influential steps in a cell-based bioassay</b>
-    <br>
-    Presented at
-    <a href="https://conferences.enbis.org/event/18/contributions/258/">
-      ENBIS
-    </a>
-    , Trondhein, Norway
-    <br>
-    Date: 27/06/2022
-    <br>
-    Material available <a href="presentations/material/ENBIS22.pdf">here</a>
-  </li>
-  <br>
-</ul>
-<h2 class="anchored">2021</h2>
-<ul>
-      <li style="list-style-type:'📊 '">
-    <b>Enumeration of large four-and-two-level designs</b>
-    <br>
-    Presented at
-    <a href="http://rssb2020.uliege.be/program.php">
-      RSSB
-    </a>
-    , Liège, Belgium
-    <br>
-    Date: 21/10/2021
-    <br>
-    Material available <a href="presentations/material/RSSB.pdf">here</a>
-  </li>
-  <br>
-      <li style="list-style-type:'📊 '">
-    <b>Enumeration of large four-and-two-level designs</b>
-    <br>
-    Presented at
-    <a href="https://ossifragus.github.io/dae2021/program.html#poster-AlexandreBohyn">
-      DAE
-    </a>
-    , Online
-    <br>
-    Date: 14/10/2021
-    <br>
-    Material available <a href="presentations/material/DAE.pdf">here</a>
-  </li>
-  <br>
-      <li style="list-style-type:'🎤 '">
-    <b>Enumeration of large mixed four-and-two-level regular designs</b>
-    <br>
-    Presented at
-    <a href="https://conferences.enbis.org/event/11/contributions/126/">
-      ENBIS
-    </a>
-    , Online
-    <br>
-    Date: 14/06/2021
-    <br>
-    Material available <a href="presentations/material/ENBIS21.pdf">here</a>
-  </li>
-  <br>
-</ul>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1672531200000">
+<div class="thumbnail">
+<p><a href=""> <img src="projects/graeco_latin_square.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="">
+<h3 class="no-anchor listing-title">
+Graeco-Latin Square
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<p>Generating a nice visualisation of Graeco-Latin squares using the <code>p5.js</code>library in javascript.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="">
+<div class="listing-date">
+Jan 1, 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1675209600000">
+<div class="thumbnail">
+<p><a href=""> <img src="projects/fatld_package.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="">
+<h3 class="no-anchor listing-title">
+fatld package
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="">
+<div class="listing-date">
+Feb 1, 2023
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div>
-
-
-
-
-</main> <!-- /main -->
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
