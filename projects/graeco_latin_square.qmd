@@ -1,0 +1,9 @@
+---
+title: "Graeco-Latin Square"
+description: "Generating a nice visualisation of Graeco-Latin squares using the `p5.js`library in javascript."
+date: 01/01/2023
+image: "graeco_latin_square.png"
+---
+
+This is a test project post.
+Here is an image

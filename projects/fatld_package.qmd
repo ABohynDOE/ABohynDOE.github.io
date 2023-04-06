@@ -1,0 +1,7 @@
+---
+title: "`fatld` pacakge"
+description: "Python package to generate and characterize four-and-two-level designs"
+date: 02/01/2023
+# image: "fatld_package.png"
+---
+This is another blog post about the `fatld` package

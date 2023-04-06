@@ -3,12 +3,18 @@ project:
 
 website:
   title: "Alexandre Bohyn"
+  favicon: /img/icon.png
   navbar:
     left:
       - text: "Home"
         href: index.qmd
       - text: "Presentations"
         href: presentations.qmd
+      - text: "Publications"
+        href: publications.qmd
+      # - text: "Projects"
+      #   href: projects.qmd
+      
 
 format:
   html:

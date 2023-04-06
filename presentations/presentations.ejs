@@ -2,7 +2,7 @@
 
 <% for (const item of items) { %>
 
-<h3><%- item.year %></h3>
+<h2><%- item.year %></h2>
 
 <ul>
 <% for (const event of item.events) { %>
@@ -22,8 +22,8 @@
     Date: <%= event.date %>
     <br/>
     Material available <a href=<%= event.material %> >here</a>
-    <br/>
   </li>
+  <br/>
 <% } %>
 </ul>
 <% } %>
