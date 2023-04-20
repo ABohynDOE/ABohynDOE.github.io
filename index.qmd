@@ -18,7 +18,7 @@ about:
     - text: Email
       url: "mailto:alexandre.bohyn@gmail.com"
     - text: CV
-      href: "cv.pdf"
+      href: cv.pdf
 comments: false
 ---
 
