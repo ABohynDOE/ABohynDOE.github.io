@@ -15,6 +15,8 @@ about:
     - text: Github
       icon: github
       url: "https://github.com/ABohynDOE"
+    - text: "{{< fa brands orcid >}} ORCID"
+      url: "https://orcid.org/0000-0001-9776-7467"
     - text: Email
       url: "mailto:alexandre.bohyn@gmail.com"
     - text: CV
@@ -22,9 +24,12 @@ about:
 comments: false
 ---
 
-## Biostatistician & Bioscience engineer {style="color: #92394D; font-family: \"Roboto"}
+:::{style="color: #92394D; font-family: \"Roboto"}
+## Biostatistician & Bioscience engineer
+:::
 
 ::: column-page
+
 ## Bio
 
 After graduating from UCLouvain in Soil and Water management, I developed an interest for statistics than led me to do a master in Statistics in KU Leuven. There, I met Peter Goos who became my Ph.D. promoter. I am now studying design of experiments and their applications to robustify protocol for cell-based bio-assays. I am currently working on the enumeration and characterization of large regular mixed-level designs.

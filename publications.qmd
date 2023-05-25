@@ -2,13 +2,12 @@
 title: "List of publications"
 ---
 
-## Accepted
-
--   **Bohyn Alexandre**, Schoen Eric & Goos Peter (2023) [*Enumeration of regular fractional factorial designs with four-level and two-level factors*](https://arxiv.org/abs/2303.05811), Journal of the Royal Statistical Society: Series C
+-   **Bohyn Alexandre**, Schoen Eric & Goos Peter (2023), Enumeration of regular fractional factorial designs with four-level and two-level factors, *Journal of the Royal Statistical Society: Series C*, DOI: [10.1093/jrsssc/qlad031](10.1093/jrsssc/qlad031)
 
 ## In press
 
--   **Bohyn Alexandre**, Schoen Eric & Goos Peter (2023) [*Design and analysis of a microplate assay in the presence of multiple restrictions on the randomization*](https://arxiv.org/abs/2303.05817)
+-   **Bohyn Alexandre**, Schoen Eric & Goos Peter (2023), Design and analysis of a microplate assay in the presence of multiple restrictions on the randomization.
+Available on [arXiv](https://arxiv.org/abs/2303.05817).
 
 ## Ongoing work
 
