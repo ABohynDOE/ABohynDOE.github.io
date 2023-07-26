@@ -1,3 +1,12 @@
+- year: 2023
+  events:
+    - title: Design and analysis of a microplate assay in the presence of multiple restrictions on the randomization
+      place: Memphis, TN, USA
+      organisation: ICODOE
+      link: https://www.memphis.edu/msci/icodoe22/
+      date: 11/05/2023
+      type: talk
+      material: presentations/material/ICODOE23.pdf
 - year: 2022
   events:
     - title: A blocked split-plot experiment to detect the influential steps in a cell-based bioassay
@@ -32,4 +41,3 @@
       date: 14/06/2021
       type: talk
       material: presentations/material/ENBIS21.pdf
-    
