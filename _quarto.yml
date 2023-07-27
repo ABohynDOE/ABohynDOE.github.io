@@ -14,8 +14,13 @@ website:
         href: publications.qmd
       - text: "Talks"
         href: presentations.qmd
-      # - text: "Projects"
-      #   href: projects.qmd
+      - text: "CV"
+        href: cv.qmd
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
 
 execute: 
   freeze: auto
