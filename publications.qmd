@@ -1,14 +1,30 @@
 ---
-title: "List of publications"
+title: "Publications"
+callout-appearance: minimal
 ---
 
--   **Bohyn Alexandre**, Schoen Eric & Goos Peter (2023), Enumeration of regular fractional factorial designs with four-level and two-level factors, *Journal of the Royal Statistical Society: Series C*, DOI: [10.1093/jrsssc/qlad031](10.1093/jrsssc/qlad031)
+## 2023
 
-## In press
+::: {.callout-note collapse="true"}
+## [**Enumeration of regular fractional factorial designs with four-level and two-level factors**](https://doi.org/10.1093/jrsssc/qlad031)<br>Bohyn Alexandre, Schoen Eric & Goos Peter
+<br>
+Published in *Journal of the Royal Statistical Society: Series C*, 2023
 
--   **Bohyn Alexandre**, Schoen Eric & Goos Peter (2023), Design and analysis of a microplate assay in the presence of multiple restrictions on the randomization.
-Available on [arXiv](https://arxiv.org/abs/2303.05817).
+In this paper, we present an efficient method to enumerate regular designs with both four-level factors and two-level factors.
+We then use this method to generate a catalog of all such designs with up to three four-level factors, 20 two-level factors, and 128 runs.
+Finally, we revisit several examples from the literature where our catalog could have been useful.
 
-## Ongoing work
+Recommended citation:<br>
+Bohyn A., Schoen E., Goos P. (2023). "Enumeration of regular fractional factorial designs with four-level and two-level factors". *Journal of the Royal Statistical Society: Series C*.
+::: 
 
--   Characterization of designs with four-level and two-level designs
+::: {.callout-note collapse="true"}
+## [Design and analysis of a microplate assay in the presence of multiple restrictions on the randomization]()<br>Alexandre Bohyn, Eric D. Schoen, Chee Ping Ng, Kristina Bishard, Manon Haarmans, Sebastian J. Trietsch & Peter Goos
+<br>
+Under review in *Journal of Agricultural, Biological, and Environmental Statistics*
+
+
+
+Recommended citation:<br>
+Bohyn A., Schoen E., Ng C., Bishard K., Haarmans M., Trietsch S., Goos P. (2023). "Design and analysis of a microplate assay in the presence of multiple restrictions on the randomization". *Journal of Agricultural, Biological, and Environmental Statistics*. Manuscript Under Review.
+::: 
