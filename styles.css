@@ -1,1 +1,11 @@
-/* css styles */
+.rounded {
+    border-radius: 2.5rem !important;
+}
+
+div.callout-note.callout {
+  border-left-color: #92394d;
+}
+
+a {
+  color:  #92394d;
+}

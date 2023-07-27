@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "Graeco-Latin Square\n\n\n\n\n\nGenerating a nice visualisation of Graeco-Latin squares using the p5.jslibrary in javascript.\n\n\n\n\n\n\nJan 1, 2023\n\n\n\n\n\n\n  \n\n\n\n\nfatld package\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit\n\n\n\n\n\n\nFeb 1, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "KU Leuven | Leuven, Belgium\nPh.D. in Design of Experiments | September 2019 - October 2023 (expected)\nThesis: Design of Experiments Strategies for Robustifying Cell-Based Bio-Assays\nPromoters: Peter Goos and Eric Schoen\nKU Leuven | Leuven, Belgium\nM.S. in Statistics | Specialization in Biostatistics | September 2017 - September 2019\nThesis: Comparison of statistical methods and designs for a high throughput phenotyping experiment.\nPromoter: Pr. Peter Goos (KULeuven)\nSupervisor: Pr. Xavier Draye (UCLouvain)\nUCLouvain | Louvain-la-Neuve, Belgium\nM.S. in Bioscience engineering | Specialization in Soil and Water management | September 2015 - September 2017\nThesis: Mapping groundwater degradation in the Triffa Plain, Morocco\nPromotors: Pr. Marnik Vanclooster & Pr. Patrick Bogaert\nUCLouvain | Louvain-la-Neuve, Belgium\nB.S. in Bioscience engineering | Specialization in Environmental sciences | September 2011 - September 2015"
   },
   {
-    "objectID": "index.html#bio",
-    "href": "index.html#bio",
-    "title": "Alexandre Bohyn",
-    "section": "Bio",
-    "text": "Bio\nAfter graduating from UCLouvain in Soil and Water management, I developed an interest for statistics than led me to do a master in Statistics in KU Leuven. There, I met Peter Goos who became my Ph.D. promoter. I am now studying design of experiments and their applications to robustify protocol for cell-based bio-assays. I am currently working on the enumeration and characterization of large regular mixed-level designs."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Alexandre Bohyn",
-    "section": "Education",
-    "text": "Education\n\nKU Leuven | Leuven, Belgium\nPh.D. in Design of Experiments | September 2019 - October 2023 (expected)\nThesis: Design of Experiments Strategies for Robustifying Cell-Based Bio-Assays\nPromoters: Peter Goos and Eric Schoen\nKU Leuven | Leuven, Belgium\nM.S. in Statistics | Specialization in Biostatistics | September 2017 - September 2019\nThesis: Comparison of statistical methods and designs for a high throughput phenotyping experiment.\nPromoter: Pr. Peter Goos (KULeuven)\nSupervisor: Pr. Xavier Draye (UCLouvain)\nUCLouvain | Louvain-la-Neuve, Belgium\nM.S. in Bioscience engineering | Specialization in Soil and Water management | September 2015 - September 2017\nThesis: Mapping groundwater degradation in the Triffa Plain, Morocco\nPromotors: Pr. Marnik Vanclooster & Pr. Patrick Bogaert\nUCLouvain | Louvain-la-Neuve, Belgium\nB.S. in Bioscience engineering | Specialization in Environmental sciences | September 2011 - September 2015"
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "KU Leuven | Leuven, Belgium\nPh.D. in Design of Experiments | September 2019 - October 2023 (expected)\nThesis: Design of Experiments Strategies for Robustifying Cell-Based Bio-Assays\nPromoters: Peter Goos and Eric Schoen\nKU Leuven | Leuven, Belgium\nM.S. in Statistics | Specialization in Biostatistics | September 2017 - September 2019\nThesis: Comparison of statistical methods and designs for a high throughput phenotyping experiment.\nPromoter: Pr. Peter Goos (KULeuven)\nSupervisor: Pr. Xavier Draye (UCLouvain)\nUCLouvain | Louvain-la-Neuve, Belgium\nM.S. in Bioscience engineering | Specialization in Soil and Water management | September 2015 - September 2017\nThesis: Mapping groundwater degradation in the Triffa Plain, Morocco\nPromotors: Pr. Marnik Vanclooster & Pr. Patrick Bogaert\nUCLouvain | Louvain-la-Neuve, Belgium\nB.S. in Bioscience engineering | Specialization in Environmental sciences | September 2011 - September 2015"
   },
   {
     "objectID": "projects/fatld_package.html",
@@ -28,38 +21,45 @@
     "text": "This is another blog post about the fatld package"
   },
   {
-    "objectID": "projects/graeco_latin_square.html",
-    "href": "projects/graeco_latin_square.html",
-    "title": "Graeco-Latin Square",
-    "section": "",
-    "text": "This is a test project post. Here is an image"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "List of publications",
+    "title": "Publications",
     "section": "",
-    "text": "Bohyn Alexandre, Schoen Eric & Goos Peter (2023) Enumeration of regular fractional factorial designs with four-level and two-level factors, Journal of the Royal Statistical Society: Series C"
+    "text": "Enumeration of regular fractional factorial designs with four-level and two-level factorsBohyn Alexandre, Schoen Eric & Goos Peter\n\n\n\n\n\n Published in Journal of the Royal Statistical Society: Series C, 2023\nIn this paper, we present an efficient method to enumerate regular designs with both four-level factors and two-level factors. We then use this method to generate a catalog of all such designs with up to three four-level factors, 20 two-level factors, and 128 runs. Finally, we revisit several examples from the literature where our catalog could have been useful.\nRecommended citation: Bohyn A., Schoen E., Goos P. (2023). “Enumeration of regular fractional factorial designs with four-level and two-level factors”. Journal of the Royal Statistical Society: Series C.\n\n\n\n\n\n\n\n\n\nDesign and analysis of a microplate assay in the presence of multiple restrictions on the randomizationAlexandre Bohyn, Eric D. Schoen, Chee Ping Ng, Kristina Bishard, Manon Haarmans, Sebastian J. Trietsch & Peter Goos\n\n\n\n\n\n Under review in Journal of Agricultural, Biological, and Environmental Statistics\nRecommended citation: Bohyn A., Schoen E., Ng C., Bishard K., Haarmans M., Trietsch S., Goos P. (2023). “Design and analysis of a microplate assay in the presence of multiple restrictions on the randomization”. Journal of Agricultural, Biological, and Environmental Statistics. Manuscript Under Review."
   },
   {
-    "objectID": "publications.html#in-press",
-    "href": "publications.html#in-press",
-    "title": "List of publications",
-    "section": "In press",
-    "text": "In press\n\nBohyn Alexandre, Schoen Eric & Goos Peter (2023) Design and analysis of a microplate assay in the presence of multiple restrictions on the randomization"
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Enumeration of regular fractional factorial designs with four-level and two-level factorsBohyn Alexandre, Schoen Eric & Goos Peter\n\n\n\n\n\n Published in Journal of the Royal Statistical Society: Series C, 2023\nIn this paper, we present an efficient method to enumerate regular designs with both four-level factors and two-level factors. We then use this method to generate a catalog of all such designs with up to three four-level factors, 20 two-level factors, and 128 runs. Finally, we revisit several examples from the literature where our catalog could have been useful.\nRecommended citation: Bohyn A., Schoen E., Goos P. (2023). “Enumeration of regular fractional factorial designs with four-level and two-level factors”. Journal of the Royal Statistical Society: Series C.\n\n\n\n\n\n\n\n\n\nDesign and analysis of a microplate assay in the presence of multiple restrictions on the randomizationAlexandre Bohyn, Eric D. Schoen, Chee Ping Ng, Kristina Bishard, Manon Haarmans, Sebastian J. Trietsch & Peter Goos\n\n\n\n\n\n Under review in Journal of Agricultural, Biological, and Environmental Statistics\nRecommended citation: Bohyn A., Schoen E., Ng C., Bishard K., Haarmans M., Trietsch S., Goos P. (2023). “Design and analysis of a microplate assay in the presence of multiple restrictions on the randomization”. Journal of Agricultural, Biological, and Environmental Statistics. Manuscript Under Review."
   },
   {
-    "objectID": "publications.html#ongoing-work",
-    "href": "publications.html#ongoing-work",
-    "title": "List of publications",
-    "section": "Ongoing work",
-    "text": "Ongoing work\n\nCharacterization of designs with four-level and two-level designs"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alexandre Bohyn",
+    "section": "",
+    "text": "After graduating from UCLouvain in Soil and Water management, I developed an interest for statistics than led me to do a master in Statistics in KU Leuven. There, I met Peter Goos who became my Ph.D. promoter. I am now studying design of experiments and their applications to robustify protocol for cell-based bio-assays. I am currently working on the enumeration and characterization of large regular mixed-level designs."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Graeco-Latin Square\n\n\n\n\n\nGenerating a nice visualisation of Graeco-Latin squares using the p5.jslibrary in javascript.\n\n\n\n\n\n\nJan 1, 2023\n\n\n\n\n\n\n  \n\n\n\n\nfatld package\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit\n\n\n\n\n\n\nFeb 1, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "presentations.html",
     "href": "presentations.html",
     "title": "Talks 🎤 and posters 📊",
     "section": "",
-    "text": "On this page are listed talks that I have given at conferences and posters that I have presented at events, sorted by year. When available, the material, i.e. the slides of the talk or the pdf of the poster, are given.\n\n2022\n\n      \n    A blocked split-plot experiment to detect the influential steps in a cell-based bioassay\n    \n    Presented at\n    \n      ENBIS\n    \n    , Trondhein, Norway\n    \n    Date: 27/06/2022\n    \n    Material available here\n  \n  \n\n2021\n\n      \n    Enumeration of large four-and-two-level designs\n    \n    Presented at\n    \n      RSSB\n    \n    , Liège, Belgium\n    \n    Date: 21/10/2021\n    \n    Material available here\n  \n  \n      \n    Enumeration of large four-and-two-level designs\n    \n    Presented at\n    \n      DAE\n    \n    , Online\n    \n    Date: 14/10/2021\n    \n    Material available here\n  \n  \n      \n    Enumeration of large mixed four-and-two-level regular designs\n    \n    Presented at\n    \n      ENBIS\n    \n    , Online\n    \n    Date: 14/06/2021\n    \n    Material available here\n  \n  \n\n\nNo matching items"
+    "text": "On this page are listed talks that I have given at conferences and posters that I have presented at events, sorted by year. When available, the material, i.e. the slides of the talk or the pdf of the poster, are given.\n\n2023\n\n      \n    Design and analysis of a microplate assay in the presence of multiple restrictions on the randomization\n    \n    Presented at\n    \n      ICODOE\n    \n    , Memphis, TN, USA\n    \n    Date: 11/05/2023\n    \n    Material available here\n  \n  \n\n2022\n\n      \n    A blocked split-plot experiment to detect the influential steps in a cell-based bioassay\n    \n    Presented at\n    \n      ENBIS\n    \n    , Trondhein, Norway\n    \n    Date: 27/06/2022\n    \n    Material available here\n  \n  \n\n2021\n\n      \n    Enumeration of large four-and-two-level designs\n    \n    Presented at\n    \n      RSSB\n    \n    , Liège, Belgium\n    \n    Date: 21/10/2021\n    \n    Material available here\n  \n  \n      \n    Enumeration of large four-and-two-level designs\n    \n    Presented at\n    \n      DAE\n    \n    , Online\n    \n    Date: 14/10/2021\n    \n    Material available here\n  \n  \n      \n    Enumeration of large mixed four-and-two-level regular designs\n    \n    Presented at\n    \n      ENBIS\n    \n    , Online\n    \n    Date: 14/06/2021\n    \n    Material available here\n  \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/graeco_latin_square.html",
+    "href": "projects/graeco_latin_square.html",
+    "title": "Graeco-Latin Square",
+    "section": "",
+    "text": "This is a test project post. Here is an image"
   }
 ]
