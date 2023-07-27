@@ -2,16 +2,13 @@
 title: "Alexandre Bohyn"
 image: /img/profile.jpeg
 about:
-  template: trestles
-  image-width: 300px
+  template: jolla
+  image-width: 200px
   image-shape: rounded
   links:
     - text: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/alexandrebohyn/"
-    - text: Twitter
-      icon: twitter
-      url: "https://twitter.com/AlexandreBohyn"
     - text: Github
       icon: github
       url: "https://github.com/ABohynDOE"
@@ -24,44 +21,4 @@ about:
 comments: false
 ---
 
-:::{style="color: #92394D; font-family: \"Roboto"}
-## Biostatistician & Bioscience engineer
-:::
-
-::: column-page
-
-## Bio
-
 After graduating from UCLouvain in Soil and Water management, I developed an interest for statistics than led me to do a master in Statistics in KU Leuven. There, I met Peter Goos who became my Ph.D. promoter. I am now studying design of experiments and their applications to robustify protocol for cell-based bio-assays. I am currently working on the enumeration and characterization of large regular mixed-level designs.
-
-## Education
-
--   **KU Leuven** \| Leuven, Belgium
-
-    Ph.D. in Design of Experiments \| September 2019 - October 2023 (expected)
-
-    Thesis: *Design of Experiments Strategies for Robustifying Cell-Based Bio-Assays*
-
-    Promoters: Peter Goos and Eric Schoen
-
--   **KU Leuven** \| Leuven, Belgium
-
-    M.S. in Statistics \| Specialization in Biostatistics \| September 2017 - September 2019
-
-    Thesis: *Comparison of statistical methods and designs for a high throughput phenotyping experiment.*
-
-    Promoter: Pr. Peter Goos (KULeuven)\
-    Supervisor: Pr. Xavier Draye (UCLouvain)
-
--   **UCLouvain** \| Louvain-la-Neuve, Belgium
-
-    M.S. in Bioscience engineering \| Specialization in Soil and Water management \| September 2015 - September 2017
-
-    Thesis: *Mapping groundwater degradation in the Triffa Plain, Morocco*
-
-    Promotors: Pr. Marnik Vanclooster & Pr. Patrick Bogaert
-
--   **UCLouvain** \| Louvain-la-Neuve, Belgium
-
-    B.S. in Bioscience engineering \| Specialization in Environmental sciences \| September 2011 - September 2015
-:::

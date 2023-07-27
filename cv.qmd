@@ -1,0 +1,34 @@
+---
+title: "CV"
+---
+
+## Education
+
+-   **KU Leuven** \| Leuven, Belgium
+
+    Ph.D. in Design of Experiments \| September 2019 - October 2023 (expected)
+
+    Thesis: *Design of Experiments Strategies for Robustifying Cell-Based Bio-Assays*
+
+    Promoters: Peter Goos and Eric Schoen
+
+-   **KU Leuven** \| Leuven, Belgium
+
+    M.S. in Statistics \| Specialization in Biostatistics \| September 2017 - September 2019
+
+    Thesis: *Comparison of statistical methods and designs for a high throughput phenotyping experiment.*
+
+    Promoter: Pr. Peter Goos (KULeuven)\
+    Supervisor: Pr. Xavier Draye (UCLouvain)
+
+-   **UCLouvain** \| Louvain-la-Neuve, Belgium
+
+    M.S. in Bioscience engineering \| Specialization in Soil and Water management \| September 2015 - September 2017
+
+    Thesis: *Mapping groundwater degradation in the Triffa Plain, Morocco*
+
+    Promotors: Pr. Marnik Vanclooster & Pr. Patrick Bogaert
+
+-   **UCLouvain** \| Louvain-la-Neuve, Belgium
+
+    B.S. in Bioscience engineering \| Specialization in Environmental sciences \| September 2011 - September 2015
