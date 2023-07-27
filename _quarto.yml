@@ -5,24 +5,17 @@ project:
 
 website:
   title: "Alexandre Bohyn"
-  favicon: /img/icon.png
+  favicon: /img/favicon.png
   navbar:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Presentations"
-        href: presentations.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "Talks"
+        href: presentations.qmd
       # - text: "Projects"
       #   href: projects.qmd
-      
-
-format:
-  html:
-    theme: simplex
-    css: styles.css
-    toc: true
 
 execute: 
   freeze: auto
